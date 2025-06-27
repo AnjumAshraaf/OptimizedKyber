@@ -1,4 +1,4 @@
-# 🚀 Optimized Kyber Key Encapsulation Mechanism (KEM)
+#  Optimized Kyber Key Encapsulation Mechanism (KEM)
 
 This repository provides an optimized C implementation of the [Kyber](https://pq-crystals.org/kyber/) post-quantum key encapsulation algorithm, focusing on improving the performance of its polynomial multiplication operations.
 
@@ -6,7 +6,7 @@ The optimization fuses three multiplication routines into a single efficient fun
 
 ---
 
-## 🧪 Project Objectives
+##  Project Objectives
 
 - Optimize polynomial multiplication in the Kyber KEM.
 - Maintain algorithmic correctness and cryptographic equivalence.
@@ -17,7 +17,7 @@ The optimization fuses three multiplication routines into a single efficient fun
 
 ---
 
-## ⚙️ Build Instructions
+##  Build Instructions
 
 ### Prerequisites
 
