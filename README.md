@@ -30,7 +30,7 @@ The optimization fuses three multiplication routines into a single efficient fun
 ```bash
 git clone https://github.com/AnjumAshraaf/OptimizedKyber.git
 cd OptimizedKyber
-make
+make speed
 
 
 
